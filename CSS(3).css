@@ -1,0 +1,37 @@
+body
+{
+ background-color:black
+}
+h1
+{
+   color:white;
+   text-shadow:10px 8px 10px yellow;
+}
+#meera
+{
+text-shadow:-10px -10px 5px green;
+}
+.nagur
+{
+   color:red;
+   background-color:blue;
+   text-shadow:10px 3px 1px yellow; 
+}
+#mawa
+{
+height:200px;
+width:80%;
+float:left
+background-color:green;
+box-shadow:0px 10px 3px yellow
+}
+.sk
+{
+width:500px;
+height:30px;
+float:left;
+color:blue
+background-color:;
+text-shadow:10px 0px 4px yellow;
+box-shadow:10px 10px 5px green;
+}
