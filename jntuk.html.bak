@@ -12,7 +12,5 @@
 <br></br>
 	<lable>Password</lable>
 	<input type="password" placeholder="Enter"></input></center>
-<br></br>
-	<input type="button" value="login" ></input>
 </body>
 </html>
